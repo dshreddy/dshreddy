@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dshreddy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Machine Learning 
-- 📫 How to reach me dshreddy03@gmail.com
+- 📫 reach me at dshreddy03@gmail.com
 
 <!---
 dshreddy/dshreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
