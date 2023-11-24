@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dshreddy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Machine Learning 
 - 📫 reach me at dshreddy03@gmail.com
 
 <!---
