@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @dshreddy
-- 👀 I’m interested in coding
+- I am a developer
+- I can build apps using flutter for ios, android, web, desktop.
+- I can build websites too
 - 📫 reach me at dshreddy03@gmail.com
 
 <!---
