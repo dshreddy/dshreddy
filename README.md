@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dshreddy
-- I am a developer
-- I can build apps using flutter for ios, android, web, desktop.
-- I can build websites too
+- I am a full stack developer
+- I can build boths apps & websites
+- My skills include Angular, Flutter, Flask, SQL
 - 📫 reach me at dshreddy03@gmail.com
 
 <!---
