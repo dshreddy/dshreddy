@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dshreddy
 - I am a full-stack developer
 - I can build both apps and websites
-- My skills include Angular, Flutter, Flask, and SQL
+- I can write code in C, C++, Python
+- My skills include Angular, Flutter, Firebase Flask, and SQL
 - 📫 Reach me at dshreddy03@gmail.com
 
 <!---
